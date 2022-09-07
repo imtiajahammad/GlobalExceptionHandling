@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0WEU1WgP1Ev//Z2paVuPfyKP0P7e0ph2QUnN9WLO+TWex9CPMubzdNalAlg7hcPv7qE8EK1xINJT9Mh1KoN6lw==",
+  "dgSpecHash": "aNljIKBzuS85XzWOohcWCsrF43KEiqyvLhwhVoDlqn2Z+6Ea6hdy0NC2xv9b2WlpvsNH93oopY5/3+sOzc1UOg==",
   "success": true,
   "projectFilePath": "/Users/imtiajahammad/Development/dotnetCore/GlobalExceptionHandling/GlobalExceptionHandling.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "/Users/imtiajahammad/.nuget/packages/microsoft.entityframeworkcore.design/6.0.8/microsoft.entityframeworkcore.design.6.0.8.nupkg.sha512",
     "/Users/imtiajahammad/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.8/microsoft.entityframeworkcore.relational.6.0.8.nupkg.sha512",
     "/Users/imtiajahammad/.nuget/packages/microsoft.entityframeworkcore.sqlserver/6.0.8/microsoft.entityframeworkcore.sqlserver.6.0.8.nupkg.sha512",
+    "/Users/imtiajahammad/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.8/microsoft.entityframeworkcore.tools.6.0.8.nupkg.sha512",
     "/Users/imtiajahammad/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/imtiajahammad/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/Users/imtiajahammad/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
